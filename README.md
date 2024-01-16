@@ -1,4 +1,4 @@
-<h1>Calculadora Básica en Python - Desarrollada por [TuNombre]</h1>
+<h1>Calculadora Básica en Python</h1>
 
 <p>¡Hola a todos! Soy Cesar Briseño, y estoy emocionado de presentarles mi proyecto de Calculadora Básica en Python. Esta aplicación no solo es una herramienta funcional para realizar cálculos matemáticos básicos, sino que también es una oportunidad para que todos, desde principiantes hasta programadores más experimentados, practiquen y perfeccionen sus habilidades de programación en Python.</p>
 
